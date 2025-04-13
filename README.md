@@ -16,3 +16,5 @@ This project sets up a simple relational database for an online bookstore using 
 - Running SQL queries for insights
 
 ## 📁 Project Structure
+
+📦 sql-online-bookstore-database ├── 📄 SQLbookStorePRJT.sql ├── 📂 data/ │ ├── Books.csv │ ├── Customers.csv │ └── Orders.csv └── 📄 README.md
