@@ -1,4 +1,3 @@
-# -sql-online-bookstore-database
 
 # SQL Online Bookstore Database 📚
 
